@@ -1,5 +1,5 @@
 pkgname=ksh93
-pkgver=93u
+pkgver=2012.08.01
 pkgrel=1
 pkgdesc="The Original AT&T Korn Shell"
 arch=('x86_64')
