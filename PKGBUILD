@@ -1,3 +1,5 @@
+# Maintainer: Jim Helm <perlguy@gmail.com>
+
 pkgname=ksh93
 pkgver=2012.08.01
 pkgrel=1
